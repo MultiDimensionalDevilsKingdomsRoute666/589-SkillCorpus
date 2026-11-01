@@ -52,7 +52,7 @@ packaging==26.3
     # via
     #   faiss-cpu
     #   pytest
-pillow==12.3.0
+pillow==13.0.0
     # via reportlab
 pluggy==1.6.0
     # via pytest
